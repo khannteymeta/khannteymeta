@@ -1,10 +1,4 @@
 <div align="center">
-  <img height="150" src="[https://github.com/khannteymeta](https://www.icegif.com/wp-content/uploads/2023/09/icegif-516.gif)"  />
-</div>
-
-###
-
-<div align="center">
   <a href="www.youtube.com/@khannteymeta" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
@@ -15,7 +9,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey there, I'm meta 👋</h1>
 
 ###
 
