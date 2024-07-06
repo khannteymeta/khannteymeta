@@ -44,7 +44,7 @@
 
 ###
 
-<img alt="Meta view count" width="20%" src="https://komarev.com/ghpvc/?username=khannteymeta&color=022278&style=for-the-badge" />
+<img alt="Meta view count" width="20%" src="https://komarev.com/ghpvc/?username=khannteymeta&color=#1877F2&style=for-the-badge" />
 
 ###
 
