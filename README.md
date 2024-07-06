@@ -40,7 +40,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=khannteymeta&theme=buefy&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" height="150" alt="Meta's github stats"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khannteymeta&layout=compact&theme=buefy&hide_border=true"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khannteymeta&layout=compact&hide_border=true"  />
 </div>
 
 ###
