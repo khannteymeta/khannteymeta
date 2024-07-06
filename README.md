@@ -3,7 +3,7 @@
 <h1 align="center">I'm meta 👋</h1>
 <p align="center">
   <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=F70A83&width=435&lines=Software+Development+Student+At+Norton+University" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=F70A83&width=435&lines=Software+Development+Student+At+Norton+University" alt="Typing SVG" /></a>
 </p>
 
 ###
