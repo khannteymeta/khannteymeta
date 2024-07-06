@@ -48,3 +48,7 @@
 
 ###
 
+<img src="https://github.com/khannteymeta/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
+
