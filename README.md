@@ -47,9 +47,5 @@
 <img alt="Meta view count" width="20%" src="https://komarev.com/ghpvc/?username=khannteymeta&color=ff69b4&style=for-the-badge" />
 
 ###
-<a href=#><img src="github-user-contribution.svg"></a>
-<p align="center"> 
-  Visitor count<br>
-</p>
-###
+
 
