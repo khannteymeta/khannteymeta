@@ -8,7 +8,7 @@
   <a href="www.youtube.com/@khannteymeta" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
-  <a href="https://www.facebook.com/khann.teymeta" target="_blank">
+  <a href="https://www.facebook.com/khann.teymeta" target="_blank" >
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   </a>
 </div>
