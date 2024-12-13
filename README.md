@@ -16,7 +16,7 @@
 ###
 
 
-<p align="left">I'm Khann Teymeta study software development  at Norton University.<br><br>- 🔭 I’m looking for work ...<br>- 📚 I'm currently learning <br>- ⚡ In my free time I always do my research.</p>
+<p align="left">I'm Khann Teymeta study software development  at Norton University.<br><br>- 🔭 I’m looking for work ...<br>- 📚 I'm currently learning UX/UI ... <br>- ⚡ In my free time I always reading book ... </p>
 
 ###
 
